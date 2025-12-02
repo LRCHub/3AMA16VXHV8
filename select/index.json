@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "KISS ME",
+  "base_artist": "KYOSUKE HIMURO",
+  "createdAt": "2025-12-02T13:47:12.957152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are You Gonna Kiss Me Or Not",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/01_Are_You_Gonna_Kiss_Me_Or_Not_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss Me, Kiss Me, Kiss Me - Remix",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/02_Kiss_Me,_Kiss_Me,_Kiss_Me_-_Remix_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shut Up and Kiss Me",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/03_Shut_Up_and_Kiss_Me_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shut Up And Kiss Me (Album Version)",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/04_Shut_Up_And_Kiss_Me_(Album_Version)_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_You_Shouldn't_Kiss_Me_Like_This_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_You_Shouldn't_Kiss_Me_Like_This_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Shouldn't Kiss Me Like This (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/07_You_Shouldn't_Kiss_Me_Like_This_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss Me Dead",
+      "artist": "Magic Wands",
+      "has_synced": false,
+      "path": "select/08_Kiss_Me_Dead_Magic_Wands.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss Me Like You Mean It",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/09_Kiss_Me_Like_You_Mean_It_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss Me Quick",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/10_Kiss_Me_Quick_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kiss Me Sadly",
+      "artist": "Airiel",
+      "has_synced": true,
+      "path": "select/11_Kiss_Me_Sadly_Airiel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Me Deadly",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/12_Kiss_Me_Deadly_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Me Goodbye",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/13_Kiss_Me_Goodbye_ABC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss Me Goodbye",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/14_Kiss_Me_Goodbye_ABC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "U Don’t Have To Kiss Me Like That",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/15_U_Don’t_Have_To_Kiss_Me_Like_That_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "DJ Flavours",
+      "has_synced": true,
+      "path": "select/16_Kiss_Me_Bliss_Me_DJ_Flavours.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/17_Kiss_Me_Bliss_Me_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shut Up Kiss Me",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/18_Shut_Up_Kiss_Me_Angel_Olsen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_01_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_02_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_03_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_04_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_05_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "KISS ME",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_06_KISS_ME_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Kiss Me",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_07_Kiss_Me_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Kiss Me",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_08_Kiss_Me_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Kiss Me",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_09_Kiss_Me_氷室_京介.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Kiss Me",
+      "artist": "氷室 京介",
+      "has_synced": false,
+      "path": "select/pl_10_Kiss_Me_氷室_京介.txt"
+    }
+  ]
+}
